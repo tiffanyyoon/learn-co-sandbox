@@ -1,0 +1,1 @@
+class Snap(username, password, 
